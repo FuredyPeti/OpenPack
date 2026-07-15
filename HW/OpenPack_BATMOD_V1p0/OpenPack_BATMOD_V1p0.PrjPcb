@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=DP
 
 [Preferences]
 PrefsVaultGUID=
@@ -73,7 +74,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,7 +91,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -141,7 +142,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -158,7 +159,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -175,7 +176,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -192,7 +193,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -209,7 +210,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -226,11 +227,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -243,7 +244,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -260,7 +261,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -287,25 +288,61 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCQOSNHR
 
+[ProjectVariant1]
+UniqueId=f6f17d8d-d437-46d1-a446-6b953b38cd3d
+Description=DP
+AllowFabrication=0
+ParameterCount=0
+VariationCount=28
+Variation1=Designator=R46_USBA1|UniqueId=\YIJAJGDI\ELSLPEWR\WDSLVUXZ|Kind=1|AlternatePart=
+Variation2=Designator=R43_USBA1|UniqueId=\YIJAJGDI\ELSLPEWR\EQPOXBCA|Kind=1|AlternatePart=
+Variation3=Designator=R46_USBA2|UniqueId=\YIJAJGDI\GGKWHBJW\WDSLVUXZ|Kind=1|AlternatePart=
+Variation4=Designator=R43_USBA2|UniqueId=\YIJAJGDI\GGKWHBJW\EQPOXBCA|Kind=1|AlternatePart=
+Variation5=Designator=R10|UniqueId=\YIJAJGDI\BGINGDZH\ADSXKWGX|Kind=1|AlternatePart=
+Variation6=Designator=C33|UniqueId=\YIJAJGDI\BGINGDZH\VGUUETPY|Kind=1|AlternatePart=
+Variation7=Designator=R36_USBA1|UniqueId=\YIJAJGDI\ELSLPEWR\DDZLLVGT|Kind=1|AlternatePart=
+Variation8=Designator=R36_USBA2|UniqueId=\YIJAJGDI\GGKWHBJW\DDZLLVGT|Kind=1|AlternatePart=
+Variation9=Designator=U8|UniqueId=\YIJAJGDI\XAKGMJXR\BATBCOJI|Kind=1|AlternatePart=
+Variation10=Designator=C74|UniqueId=\YIJAJGDI\XAKGMJXR\RBYRLOES|Kind=1|AlternatePart=
+Variation11=Designator=X1|UniqueId=\YIJAJGDI\XAKGMJXR\ECKOBIJI|Kind=1|AlternatePart=
+Variation12=Designator=C84|UniqueId=\YIJAJGDI\XAKGMJXR\AJQMXOZF|Kind=1|AlternatePart=
+Variation13=Designator=C83|UniqueId=\YIJAJGDI\XAKGMJXR\IOUDIYSU|Kind=1|AlternatePart=
+Variation14=Designator=R53|UniqueId=\YIJAJGDI\XAKGMJXR\QBKRRFWM|Kind=1|AlternatePart=
+Variation15=Designator=R52|UniqueId=\YIJAJGDI\XAKGMJXR\PGKALBLW|Kind=1|AlternatePart=
+Variation16=Designator=C82|UniqueId=\YIJAJGDI\XAKGMJXR\EBBYWESC|Kind=1|AlternatePart=
+Variation17=Designator=CON3|UniqueId=\YIJAJGDI\XAKGMJXR\YRZSWBXG|Kind=1|AlternatePart=
+Variation18=Designator=R51|UniqueId=\YIJAJGDI\XAKGMJXR\WMEGRWWH|Kind=1|AlternatePart=
+Variation19=Designator=R50|UniqueId=\YIJAJGDI\XAKGMJXR\QGHHBOYG|Kind=1|AlternatePart=
+Variation20=Designator=D4|UniqueId=\YIJAJGDI\XAKGMJXR\WXARKBGF|Kind=1|AlternatePart=
+Variation21=Designator=R54|UniqueId=\YIJAJGDI\XAKGMJXR\RQNQDJNB|Kind=1|AlternatePart=
+Variation22=Designator=C75|UniqueId=\YIJAJGDI\XAKGMJXR\EFPIZPUQ|Kind=1|AlternatePart=
+Variation23=Designator=C76|UniqueId=\YIJAJGDI\XAKGMJXR\QAITDMEI|Kind=1|AlternatePart=
+Variation24=Designator=C77|UniqueId=\YIJAJGDI\XAKGMJXR\PZQCRJLV|Kind=1|AlternatePart=
+Variation25=Designator=C78|UniqueId=\YIJAJGDI\XAKGMJXR\IGTEYSKL|Kind=1|AlternatePart=
+Variation26=Designator=C79|UniqueId=\YIJAJGDI\XAKGMJXR\YUOGAMLP|Kind=1|AlternatePart=
+Variation27=Designator=C80|UniqueId=\YIJAJGDI\XAKGMJXR\PPIUMZYK|Kind=1|AlternatePart=
+Variation28=Designator=C81|UniqueId=\YIJAJGDI\XAKGMJXR\ORFYTUSS|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [Parameter1]
-Name=GAuthor
-Value=Füredy Péter
+Name=GVersion
+Value=V1p0
 
 [Parameter2]
-Name=GBoardName
-Value=Battery Module
+Name=GProjectName
+Value=OpenPack
 
 [Parameter3]
 Name=GContact
 Value=furedypeti@gmail.com
 
 [Parameter4]
-Name=GProjectName
-Value=OpenPack
+Name=GBoardName
+Value=Battery Module
 
 [Parameter5]
-Name=GVersion
-Value=V1p0
+Name=GAuthor
+Value=Füredy Péter
 
 [Configuration1]
 Name=Sources
@@ -1274,7 +1311,7 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
+CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
