@@ -325,24 +325,24 @@ Variation28=Designator=C81|UniqueId=\YIJAJGDI\XAKGMJXR\ORFYTUSS|Kind=1|Alternate
 ParamVariationCount=0
 
 [Parameter1]
-Name=GAuthor
-Value=Füredy Péter
+Name=GVersion
+Value=V1p0
 
 [Parameter2]
-Name=GBoardName
-Value=Battery Module
+Name=GProjectName
+Value=OpenPack
 
 [Parameter3]
 Name=GContact
 Value=furedypeti@gmail.com
 
 [Parameter4]
-Name=GProjectName
-Value=OpenPack
+Name=GBoardName
+Value=Battery Module
 
 [Parameter5]
-Name=GVersion
-Value=V1p0
+Name=GAuthor
+Value=Füredy Péter
 
 [Configuration1]
 Name=Sources
@@ -1312,7 +1312,7 @@ GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=1
-CompClassManualRoomEnabled=0
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
