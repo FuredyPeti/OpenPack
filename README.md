@@ -4,7 +4,7 @@
 
 OpenPack is a portable battery pack designed to be repaired, not replaced. Instead of a sealed pouch cell, it holds six user-replaceable 18650 cells in a 2P3S configuration, so when capacity fades you swap cells instead of throwing the whole device away. It's built around a single PCB (`BATMOD_V1p0`) housed in a 3D-printed, military-styled enclosure with a CNC-machined aluminum front panel.
 
-![OpenPack_BATMOD_V1p0](./DOC/PICTURES/3Drender.png)
+![OpenPack_BATMOD_V1p0](./DOC/PICTURES/3Drender.PNG)
 
 ---
 
