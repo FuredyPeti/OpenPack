@@ -102,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HNAUCYTZ
 
 [Document4]
-DocumentPath=[1] Library\PCBLIB.PcbLib
+DocumentPath=..\[1] Library\PCBLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,10 +116,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NPTOIBJQ
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=[1] Library\SCHLIB.SchLib
+DocumentPath=..\[1] Library\SCHLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +133,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UBYRSXEE
+DocumentUniqueId=
 
 [Document6]
 DocumentPath=OpenPack_BATMOD_V1p0_USBC.SchDoc
