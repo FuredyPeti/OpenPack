@@ -1,0 +1,12 @@
+--Nedded for the operation--
+Populated BATMOD_V1p0 board
+18650 Cells in sockets (6)
+ESP-32 devboard
+USB micro-USB A calble
+
+
+
+EPS32 side		BATMOD_V1p0 side
+GND			GND
+D21			SDA
+D22			SCK
